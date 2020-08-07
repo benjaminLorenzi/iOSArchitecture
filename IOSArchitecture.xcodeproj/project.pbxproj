@@ -468,6 +468,8 @@
 		8CF8587C2406A67100B1816E = {
 			isa = PBXGroup;
 			children = (
+				8CFFA64E240BCC4B00A3C272 /* README.md */,
+				8CFFA653240BDBD300A3C272 /* images */,
 				8CF858872406A67200B1816E /* IOSArchitecture */,
 				8CF8589E2406A67700B1816E /* IOSArchitectureTests */,
 				8CF858A92406A67700B1816E /* IOSArchitectureUITests */,
@@ -490,7 +492,6 @@
 		8CF858872406A67200B1816E /* IOSArchitecture */ = {
 			isa = PBXGroup;
 			children = (
-				8CFFA652240BDBBC00A3C272 /* Tutorial */,
 				8CF858C72406AB4600B1816E /* Configuration */,
 				8CF858BF2406A88700B1816E /* Feature */,
 				8CF858BA2406A78100B1816E /* Core */,
@@ -645,15 +646,6 @@
 				8C896BBC24096B2300016806 /* BiometryWorker.swift */,
 			);
 			path = Worker;
-			sourceTree = "<group>";
-		};
-		8CFFA652240BDBBC00A3C272 /* Tutorial */ = {
-			isa = PBXGroup;
-			children = (
-				8CFFA653240BDBD300A3C272 /* images */,
-				8CFFA64E240BCC4B00A3C272 /* README.md */,
-			);
-			path = Tutorial;
 			sourceTree = "<group>";
 		};
 		8CFFA653240BDBD300A3C272 /* images */ = {
